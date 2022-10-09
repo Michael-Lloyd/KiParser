@@ -5,7 +5,7 @@ Kicad files. Kicad expression compilation is not implemented as it stands, I nee
 something work related. 
 
 ## Working Demo: 
-![The string](path "imgs/1.png")
-![The grammar](path "imgs/2.png")
-![The output](path "imgs/3.png")
-![Output representation](path "imgs/4.png")
+![The string](imgs/1.png)
+![The grammar](imgs/2.png)
+![The output](imgs/3.png)
+![Output representation](imgs/4.png)
